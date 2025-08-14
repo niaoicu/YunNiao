@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Release</title>
+
+    <!-- Windows 示例 -->
+    <item>
+      <title>Version 1.0.0</title>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure
+        url="https://github.com/niaoicu/YunNiao/releases/download/v1.0.0/YunNiao-windows-x64-setup.zip"
+        sparkle:version="1.0.0" sparkle:os="windows" />
+    </item>
+
+    <!-- macOS 示例 -->
+    <item>
+      <title>Version 1.0.0</title>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure
+        url="https://github.com/niaoicu/YunNiao/releases/download/v1.0.0/YunNiao-macos-universal.zip"
+        sparkle:version="1.0.0" sparkle:os="macos" />
+    </item>
+
+    <!-- Linux 示例 -->
+    <item>
+      <title>Version 1.0.0</title>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure
+        url="https://github.com/niaoicu/YunNiao/releases/download/v1.0.0/YunNiao-linux-x64.zip"
+        sparkle:version="1.0.0" sparkle:os="linux" />
+    </item>
+
+    <!-- Android 示例（若需要） -->
+    <item>
+      <title>Version 1.0.0</title>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <enclosure
+        url="https://github.com/niaoicu/YunNiao/releases/download/v1.0.0/YunNiao-android.apk"
+        sparkle:version="1.0.0" sparkle:os="android" />
+    </item>
+  </channel>
+</rss>
