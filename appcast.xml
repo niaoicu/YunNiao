@@ -8,7 +8,7 @@
       <title>Version 1.0.0</title>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/niaoicu/YunNiao/releases/download/v1.0.0/YunNiao-windows-x64-setup.zip"
+        url="https://gh-proxy.com/https://github.com/niaoicu/YunNiao/releases/download/v1.0.0/YunNiao-windows-x64-setup.zip"
         sparkle:version="1.0.0" sparkle:os="windows" />
     </item>
 
@@ -17,7 +17,7 @@
       <title>Version 1.0.0</title>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/niaoicu/YunNiao/releases/download/v1.0.0/YunNiao-macos-universal.zip"
+        url="https://gh-proxy.com/https://github.com/niaoicu/YunNiao/releases/download/v1.0.0/YunNiao-macos-universal.zip"
         sparkle:version="1.0.0" sparkle:os="macos" />
     </item>
 
@@ -26,7 +26,7 @@
       <title>Version 1.0.0</title>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/niaoicu/YunNiao/releases/download/v1.0.0/YunNiao-linux-x64.zip"
+        url="https://gh-proxy.com/https://github.com/niaoicu/YunNiao/releases/download/v1.0.0/YunNiao-linux-x64.zip"
         sparkle:version="1.0.0" sparkle:os="linux" />
     </item>
 
@@ -35,7 +35,7 @@
       <title>Version 2.0.1</title>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/niaoicu/YunNiao/releases/download/v2.0.1/app-arm64-v8a-release_sign.apk"
+        url="https://gh-proxy.com/https://github.com/niaoicu/YunNiao/releases/download/v2.0.1/app-arm64-v8a-release_sign.apk"
         sparkle:version="2.0.1" sparkle:os="android" />
     </item>
   </channel>
