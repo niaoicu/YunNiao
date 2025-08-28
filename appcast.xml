@@ -36,7 +36,7 @@
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <enclosure
         url="https://github.com/niaoicu/YunNiao/releases/download/v2.0.1/app-arm64-v8a-release_sign.apk"
-        sparkle:version="1.0.0" sparkle:os="android" />
+        sparkle:version="2.0.1" sparkle:os="android" />
     </item>
   </channel>
 </rss>
