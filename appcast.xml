@@ -32,11 +32,11 @@
 
     <!-- Android 示例（若需要） -->
     <item>
-      <title>Version 2.0.1</title>
+      <title>Version 2.0.2</title>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <enclosure
         url="https://gh-proxy.com/https://github.com/niaoicu/YunNiao/releases/download/v2.0.1/app-arm64-v8a-release_sign.apk"
-        sparkle:version="2.0.1" sparkle:os="android" />
+        sparkle:version="2.0.2" sparkle:os="android" />
     </item>
   </channel>
 </rss>
