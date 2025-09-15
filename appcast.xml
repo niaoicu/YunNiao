@@ -5,11 +5,11 @@
 
     <!-- Windows 示例 -->
     <item>
-      <title>Version 2.0.6</title>
+      <title>Version 2.0.7</title>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <enclosure
         url="https://gh-proxy.com/https://github.com/niaoicu/YunNiao/releases/download/v2.0.7/YunNiao2.0-setup.exe"
-        sparkle:version="2.0.6" sparkle:os="windows" />
+        sparkle:version="2.0.7" sparkle:os="windows" />
     </item>
 
     <!-- macOS 示例 -->
@@ -32,11 +32,11 @@
 
     <!-- Android 示例（若需要） -->
     <item>
-      <title>Version 2.0.6</title>
+      <title>Version 2.0.7</title>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <enclosure
         url="https://gh-proxy.com/https://github.com/niaoicu/YunNiao/releases/download/v2.0.7/app-arm64-v8a-release_sign.apk"
-        sparkle:version="2.0.6" sparkle:os="android" />
+        sparkle:version="2.0.7" sparkle:os="android" />
     </item>
   </channel>
 </rss>
