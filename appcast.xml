@@ -1,42 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Release</title>
+    <title>云鸟 Release</title>
 
-    <!-- Windows 示例 -->
+    <!-- Windows 版本 -->
     <item>
       <title>Version 2.0.6</title>
+      <description><![CDATA[
+## 🎉 新功能
+- 添加流量TB单位显示支持
+- 新增库存状态显示（充足/紧张/售罄）
+- 优化更新对话框iOS风格
+
+## 🐛 Bug修复
+- 修复订单页滚动被遮挡问题
+- 修复分段控制器双勾选图标
+- 修复流量单位显示错误
+
+## 🎨 UI/UX改进
+- 套餐列表布局更紧凑
+- 统一字体权重
+- 添加触觉反馈
+- 移除移动端空白抽屉
+- TLS分段默认开启
+      ]]></description>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <enclosure
         url="https://gh-proxy.com/https://github.com/niaoicu/YunNiao/releases/download/v2.0.7/YunNiao2.0-setup.exe"
-        sparkle:version="2.0.6" sparkle:os="windows" />
+        sparkle:version="2.0.6" 
+        sparkle:os="windows" />
     </item>
 
-    <!-- macOS 示例 -->
+    <!-- macOS 版本 -->
     <item>
       <title>Version 1.0.0</title>
+      <description><![CDATA[
+## 新功能
+- 首次发布macOS版本
+- 支持完整的代理功能
+- iOS风格界面设计
+
+## 功能特性
+- 系统代理模式
+- 全局代理模式
+- 套餐购买管理
+      ]]></description>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <enclosure
         url="https://gh-proxy.com/https://github.com/niaoicu/YunNiao/releases/download/v1.0.0/YunNiao-macos-universal.zip"
-        sparkle:version="1.0.0" sparkle:os="macos" />
+        sparkle:version="1.0.0" 
+        sparkle:os="macos" />
     </item>
 
-    <!-- Linux 示例 -->
+    <!-- Linux 版本 -->
     <item>
       <title>Version 1.0.0</title>
+      <description><![CDATA[
+## 新功能
+- 首次发布Linux版本
+- 支持x64架构
+- 完整功能支持
+
+## 系统要求
+- Ubuntu 20.04+
+- Debian 11+
+- 其他主流Linux发行版
+      ]]></description>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <enclosure
         url="https://gh-proxy.com/https://github.com/niaoicu/YunNiao/releases/download/v1.0.0/YunNiao-linux-x64.zip"
-        sparkle:version="1.0.0" sparkle:os="linux" />
+        sparkle:version="1.0.0" 
+        sparkle:os="linux" />
     </item>
 
-    <!-- Android 示例（若需要） -->
+    <!-- Android 版本 -->
     <item>
       <title>Version 2.0.6</title>
+      <description><![CDATA[
+## 🎉 新功能
+- 添加流量TB单位显示支持
+- 新增库存状态显示（充足/紧张/售罄）
+- 优化更新对话框iOS风格
+
+## 🐛 Bug修复
+- 修复订单页滚动被遮挡问题
+- 修复分段控制器双勾选图标
+- 修复流量单位显示错误
+
+## 🎨 UI/UX改进
+- 套餐列表布局更紧凑
+- 统一字体权重
+- 添加触觉反馈
+- 移除移动端空白抽屉
+      ]]></description>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <enclosure
         url="https://gh-proxy.com/https://github.com/niaoicu/YunNiao/releases/download/v2.0.7/app-arm64-v8a-release_sign.apk"
-        sparkle:version="2.0.6" sparkle:os="android" />
+        sparkle:version="2.0.6" 
+        sparkle:os="android" />
     </item>
   </channel>
 </rss>
