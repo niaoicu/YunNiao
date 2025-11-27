@@ -5,29 +5,20 @@
 
     <!-- Windows 版本 -->
     <item>
-      <title>Version 3.0.0</title>
+      <title>Version 3.0.1</title>
       <description><![CDATA[
 ## 🎉 新功能
-- 添加流量TB单位显示支持
-- 新增库存状态显示（充足/紧张/售罄）
-- 优化更新对话框iOS风格
+- 新增备用节点功能
+- 新增全新头像系统
 
 ## 🐛 Bug修复
-- 修复订单页滚动被遮挡问题
-- 修复分段控制器双勾选图标
-- 修复流量单位显示错误
-
-## 🎨 UI/UX改进
-- 套餐列表布局更紧凑
-- 统一字体权重
-- 添加触觉反馈
-- 移除移动端空白抽屉
-- TLS分段默认开启
+- 修复周期选择返回空白问题
+- 修复在线客服无法发送图片问题
       ]]></description>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://gh-proxy.com/https://github.com/niaoicu/YunNiao/releases/download/v3.0.0/YunNiao2.0-setup.exe"
-        sparkle:version="3.0.0" 
+        url="https://gh-proxy.com/https://github.com/niaoicu/YunNiao/releases/download/v3.0.1/YunNiao2.0-setup.exe"
+        sparkle:version="3.0.1" 
         sparkle:os="windows" />
     </item>
 
@@ -35,19 +26,17 @@
     <item>
       <title>Version 3.0.0</title>
       <description><![CDATA[
-## 新功能
-- 首次发布macOS版本
-- 支持完整的代理功能
-- iOS风格界面设计
+## 🎉 新功能
+- 新增备用节点功能
+- 新增全新头像系统
 
-## 功能特性
-- 系统代理模式
-- 全局代理模式
-- 套餐购买管理
+## 🐛 Bug修复
+- 修复周期选择返回空白问题
+- 修复在线客服无法发送图片问题
       ]]></description>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://gh-proxy.com/https://github.com/niaoicu/YunNiao/releases/download/v3.0.0/YunNiao2.0-MacOS.dmg"
+        url="https://gh-proxy.com/https://github.com/niaoicu/YunNiao/releases/download/v3.0.1/YunNiao2.0-MacOS.dmg"
         sparkle:version="3.0.0" 
         sparkle:os="macos" />
     </item>
@@ -56,15 +45,13 @@
     <item>
       <title>Version 1.0.0</title>
       <description><![CDATA[
-## 新功能
-- 首次发布Linux版本
-- 支持x64架构
-- 完整功能支持
+## 🎉 新功能
+- 新增备用节点功能
+- 新增全新头像系统
 
-## 系统要求
-- Ubuntu 20.04+
-- Debian 11+
-- 其他主流Linux发行版
+## 🐛 Bug修复
+- 修复周期选择返回空白问题
+- 修复在线客服无法发送图片问题
       ]]></description>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <enclosure
@@ -75,28 +62,20 @@
 
     <!-- Android 版本 -->
     <item>
-      <title>Version 3.0.0</title>
+      <title>Version 3.0.1</title>
       <description><![CDATA[
 ## 🎉 新功能
-- 添加流量TB单位显示支持
-- 新增库存状态显示（充足/紧张/售罄）
-- 优化更新对话框iOS风格
+- 新增备用节点功能
+- 新增全新头像系统
 
 ## 🐛 Bug修复
-- 修复订单页滚动被遮挡问题
-- 修复分段控制器双勾选图标
-- 修复流量单位显示错误
-
-## 🎨 UI/UX改进
-- 套餐列表布局更紧凑
-- 统一字体权重
-- 添加触觉反馈
-- 移除移动端空白抽屉
+- 修复周期选择返回空白问题
+- 修复在线客服无法发送图片问题
       ]]></description>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://gh-proxy.com/https://github.com/niaoicu/YunNiao/releases/download/v3.0.0/app-arm64-v8a-release_sign.apk"
-        sparkle:version="3.0.0" 
+        url="https://gh-proxy.com/https://github.com/niaoicu/YunNiao/releases/download/v3.0.1/app-arm64-v8a-release_sign.apk"
+        sparkle:version="3.0.1" 
         sparkle:os="android" />
     </item>
   </channel>
