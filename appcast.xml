@@ -5,7 +5,7 @@
 
     <!-- Windows 版本 -->
     <item>
-      <title>Version 3.0.0</title>
+      <title>Version 3.0.1</title>
       <description><![CDATA[
 ## 🎉 新功能
 - 新增备用节点功能
@@ -18,7 +18,7 @@
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <enclosure
         url="https://gh-proxy.com/https://github.com/niaoicu/YunNiao/releases/download/v3.0.1/YunNiao2.0-setup.exe"
-        sparkle:version="3.0.0" 
+        sparkle:version="3.0.1" 
         sparkle:os="windows" />
     </item>
 
@@ -62,7 +62,7 @@
 
     <!-- Android 版本 -->
     <item>
-      <title>Version 3.0.0</title>
+      <title>Version 3.0.1</title>
       <description><![CDATA[
 ## 🎉 新功能
 - 新增备用节点功能
@@ -75,7 +75,7 @@
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <enclosure
         url="https://gh-proxy.com/https://github.com/niaoicu/YunNiao/releases/download/v3.0.1/app-arm64-v8a-release_sign.apk"
-        sparkle:version="3.0.0" 
+        sparkle:version="3.0.1" 
         sparkle:os="android" />
     </item>
   </channel>
